@@ -1,5 +1,4 @@
-http://47.91.104.88:3128
-socks5://192.252.208.70:14282
-socks5://142.54.239.1:4145
-socks5://104.238.100.115:45314
-socks5://142.54.239.1:4145
+http://howmsfui:tfrc9na9xl8k@198.23.239.134:6540
+http://howmsfui:tfrc9na9xl8k@207.244.217.165:6712
+http://howmsfui:tfrc9na9xl8k@107.172.163.27:6543
+http://howmsfui:tfrc9na9xl8k@64.137.42.112:5157
