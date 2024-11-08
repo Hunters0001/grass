@@ -1,10 +1,10 @@
-http://howmsfui:tfrc9na9xl8k@198.23.239.134:6540
 http://howmsfui:tfrc9na9xl8k@207.244.217.165:6712
 http://howmsfui:tfrc9na9xl8k@107.172.163.27:6543
 http://howmsfui:tfrc9na9xl8k@64.137.42.112:5157
-socks5://132.148.167.243:59394
-socks5://67.205.177.122:57001
-socks5://165.22.37.237:57539
-socks5://5.188.38.6:8443
-socks4://185.134.99.61:4153
-socks5://5.188.37.124:8443
+http://howmsfui:tfrc9na9xl8k@173.211.0.148:6641
+http://howmsfui:tfrc9na9xl8k@161.123.152.115:6360
+http://howmsfui:tfrc9na9xl8k@167.160.180.203:6754
+http://howmsfui:tfrc9na9xl8k@154.36.110.199:6853
+http://howmsfui:tfrc9na9xl8k@173.0.9.70:5653
+http://howmsfui:tfrc9na9xl8k@173.0.9.209:5792
+http://howmsfui:tfrc9na9xl8k@198.23.239.134:6540
