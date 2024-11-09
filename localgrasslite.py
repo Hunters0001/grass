@@ -9,6 +9,8 @@ import shutil
 from loguru import logger
 from websockets_proxy import Proxy, proxy_connect
 from fake_useragent import UserAgent
+import os
+import sys  # Import sys for command line arguments
 
 user_agent = UserAgent(os='windows', platforms='pc', browsers='chrome')
 random_user_agent = user_agent.random
@@ -83,4 +85,9 @@ async def main():
     await asyncio.gather(*tasks)
 
 if __name__ == '__main__':
-    asyncio.run(main())
+    if len(sys.argv) > 1 and sys.argv[1] == 'web':
+        # If 'web' is passed as an argument, run the main function (or any web-related function if you implement one).
+        asyncio.run(main())  # You can implement web server functionality here if needed.
+    else:
+        # For worker mode, run the main function
+        asyncio.run(main())
